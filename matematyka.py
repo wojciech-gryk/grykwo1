@@ -11,9 +11,17 @@ print("odejmowanie",result)
 result = number1 * 7
 print("mnozenie",result)
 
-result = number1 / 3
+result = 10 / 3
 print("dzielenie",result)
 
+result = 10 // 3
+print("dzielenie_bez_reszty",result)
+
+result = 10 % 3
+print("modulo",result)
+
+result = 10 ** 3
+print("potęgowanie",result)
 
 
 
