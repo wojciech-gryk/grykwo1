@@ -4,12 +4,8 @@ print(text[0:4])
 print(len(text))
 
 text2 = "0123456789"
-print(text2[0:4])
-#print(text2[4:8]) #nie działa - dopytać czemu
-
 typ = type(text2)
-print(typ)
-print(typ[6:-2])
+#print(typ[4:8]) #nie działa - dopytać czemu
 
 
 if len(text) < 12:
