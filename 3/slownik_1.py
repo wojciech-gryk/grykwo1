@@ -8,3 +8,7 @@ slownik = {
 
 print(slownik[10])
 print(slownik["c"])
+
+v = slownik["d"]
+print("d3:", v[2])
+print("d3:", slownik["d"][2])
