@@ -15,9 +15,8 @@
 # https://www.w3schools.com/python/python_ref_string.asp
 
 tekst = input("wprowadź tekst z kilku wyrazów: ")
-tekst1 = ' '.join(tekst.split())
 
-slowa = tekst1.split(sep=" ")
+slowa = tekst.split(sep=" ")
 i = 0
 
 for i, wyraz in enumerate(slowa):
