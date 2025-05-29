@@ -1,0 +1,23 @@
+{
+  "imie": "Jan",
+  "nazwisko": "Nowak",
+  "wiek": 33,
+  "zonaty": true,
+  "dane": null,
+  "tel": [
+    "12344324",
+    "25345234",
+    "25532434"
+  ],
+  "adresy": [{
+    "ulica": "Dupa",
+    "dom": 3,
+    "kod_pocztowy": "55-111"
+  },
+  {
+    "ulica": "Hallera",
+    "dom": 22,
+    "kod_pocztowy": "11-111"
+  }
+    ]
+}
